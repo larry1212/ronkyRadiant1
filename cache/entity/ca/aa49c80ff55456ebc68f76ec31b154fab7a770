@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>Is this the best time to be alive?</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+  <div id="site-title"><a href="/">Ronke&#8217;s Yum-Yum</a></div>
+  <div id="site-subtitle"></div>
+</div>
+<hr class="hidden" />
+      <div id="main">
+        <div id="content-wrapper">
+          <div id="content">
+            <h1>Is this the best time to be alive?</h1>
+            We ask if this is the best time to be alive, to form businesses, to form relationships, etc.
+            
+            <p class="info">Posted by tope on Monday, August 03, 2009</p>
+          </div>
+        </div>
+        <div id="sidebar-wrapper">
+          <div id="sidebar">
+            <h3>About Ronky&#8217;s Yum Yum</h3>
+<p>This website is dedicated to all black women out there who are striding ahead and making things happen.<a href="/about/">More&#8230;</a></p>
+<h3>Archives By Month</h3>
+<ul>
+<li><a href="/articles/2009/08/">August 2009</a></li>
+<li><a href="/articles/2006/06/">June 2006</a></li>
+</ul>
+          </div>
+        </div>
+      </div>
+      <hr class="hidden" />
+<div id="footer">
+  <p>Copyright &copy; 2009, Yum Yum plc. All rights reserved.<br />
+    <!-- This site is powered by <a href="http://radiantcms.org/">Radiant CMS</a>. -->
+  </p>
+</div>
+
+    </div>
+  </body>
+</html>
